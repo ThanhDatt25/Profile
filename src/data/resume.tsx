@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "<>I'm a student who likes to be a fullstack developer. If you want, you can contact me</>",
   summary:
-    "In 2022, I started learning programming and creating applications from programming languages. In 2023, I started studying geography and taught myself programming",
+    "In 2022, I started learning programming and creating applications from programming languages. In 2023, I started teaching myself programming",
   avatarUrl: "/me.jpg",
   skills: [
     "React",
